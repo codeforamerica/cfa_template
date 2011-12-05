@@ -1,0 +1,5 @@
+# The Code for America ReadMe template
+
+This is a list of a README templates for different Code for America Projects
+
+[![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/cfa_template.png)](http://stats.codeforamerica.org/projects/cfa_template)
