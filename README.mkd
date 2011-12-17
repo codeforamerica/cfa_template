@@ -2,4 +2,11 @@
 
 This is a list of a README templates for different Code for America Projects
 
+LICENSE.mkd contains the default license file for projects.
+
+For the Coder Sound post commit hook go to Admin
+
+For the Commitilization post commit hook go to Admin
+
+
 [![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/cfa_template.png)](http://stats.codeforamerica.org/projects/cfa_template)
