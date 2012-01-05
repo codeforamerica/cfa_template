@@ -9,5 +9,4 @@ For the Coder Sound post commit hook go to Admin
 For the Commitilization post commit hook go to Admin
 
 
-
 [![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/cfa_template.png)](http://stats.codeforamerica.org/projects/cfa_template)
